@@ -19,7 +19,7 @@ h2,
 h3,
 h4,
 h5
- {
+{
 
     text-align: center;
 }
@@ -55,6 +55,6 @@ p {
 
     width: 80%;
     margin: 40px auto;
-    border: 5px solid grey;
+    border: 5px solid blue;
     box-shadow: 5px 10px #808080;
 }
