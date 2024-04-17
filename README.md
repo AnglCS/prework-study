@@ -11,6 +11,7 @@ This study guide was specially created for  bootcamp students who were going thr
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Deployment link](#link)
 
 ## Installation
 
@@ -28,4 +29,7 @@ N/A
 
 Please refer to the **LICENSE** in the repository.
 
+## Link
+
+https://anglcs.github.io/prework-study/
 ---
